@@ -1,0 +1,2 @@
+Para rodar o projeto abra o terminal do Visual Studio Code e cole o comando, mas antes substitua o caminho pelo caminho da pasta salva em seu computador como está no exemplo: 
+npx ts-node --files --transpile-only "c:\Users\lisel\OneDrive\Documentos\Visual Studio Code\designpattern-labp\src\main.ts"
